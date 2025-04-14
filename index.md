@@ -7,7 +7,7 @@ I graduated from UW-Madison, where I was Advised by [Dimitris Papailiopoulos](ht
 My research interests are primarily in Systems for Machine Learning, especially around distributed training and inference of ML workloads. During my PhD I have been very fortunate to intern with Bilge Acun at FAIR, Amar Phanishayee at Microsoft Research and Yucheng Low at Apple.
 
 
-During my time in Madison, when I was not being a grad student, you will find me racing keelboats on [Lake Mendota](https://www.mendotayc.org/racing) or alpine skiing in the winters. I also doubled up as a sailing instructor at the UW-Madison's Hoofers Sailing club. Since moving to Austin, I have been racing keelboats on Lake Travis. 
+During my time in Madison, when I was not being a grad student, I very likely was racing keelboats on [Lake Mendota](https://www.mendotayc.org/racing) or alpine skiing in the winters. I also doubled up as a sailing instructor at the UW-Madison's Hoofers Sailing club. Since moving to Austin, I have been racing keelboats on Lake Travis and teaching sailing with Austin Yacht club, while my ski's languish, covered in storage wax.
 
 ### Teaching
 CS 395T, [Principles of Learned Systems](/cs395t)
