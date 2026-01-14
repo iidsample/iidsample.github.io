@@ -35,7 +35,7 @@ CS 395T, [Principles of Learned Systems](/cs395t)
 
 * Decoding Speculative Decoding. <br />
 *M Yan*, ***S Agarwal***, *S Venkataraman*.
-[[paper](https://arxiv.org/abs/2402.01528)] *EMNLP'25 SAC Award, Oral* <br />
+[[paper](https://arxiv.org/abs/2402.01528)] **EMNLP'25 SAC Award, Oral** <br />
 
 * Everything Everywhere All at Once: LLMs can In-Context Learn Multiple Tasks in Superposition <br />
 *Zheyang Xiong*, *Ziyang Cai*, *John Cooper*, *Albert Ge*, *Vasilis Papageorgiou*, *Zack Sifakis*, *Angeliki Giannou*, *Ziqian Lin*, *Liu Yang*, *Saurabh Agarwal*, *Grigorios Chrysos*, *Samet Oymak*, *Kangwook Lee*, *Dimitris Papailiopoulos* **ICML'25 Spotlight** <br />
